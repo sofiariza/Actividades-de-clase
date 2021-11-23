@@ -7,7 +7,7 @@
 
 1.	#### Casos de COVID-19: el objetivo era facilitar el seguimiento actual de la pandemia que comenzó a mediados de marzo del 2020. Las estadísticas que nos ofrece en el buscador Google están muy completas. Nos muestran las investigaciones que los usuarios desean.
 
-#### **Ejemplo:** si quiero buscar el número de casos y el número de muertes en los últimos 14 días que hubo en Colombia, me arrojan los resultados por medio de un cuadro con su respectivo croquis del mapa. 
+#### *Ejemplo:* si quiero buscar el número de casos y el número de muertes en los últimos 14 días que hubo en Colombia, me arrojan los resultados por medio de un cuadro con su respectivo croquis del mapa. 
 
 #### En la parte de abajo vemos otro cuadro de estadísticas que nos muestra los mismos resultados, pero con su porcentaje. Además, le agregaron el número de dosis suministradas por la vacuna contra el COVID-19, una lista de la cantidad de casos nuevos en las ciudades del país colombiano. Esta visualización de datos ha generado mucha popularidad para informar a los usuarios, ya que es fácil asimilarla y no nos genera confusión en los datos y se destaca la información útil. 
 
